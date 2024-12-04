@@ -32,4 +32,4 @@
 </br>
 </br>
 
-[![](https://visitcount.itsvg.in/api?id=Arul6851&icon=5&color=6)](https://visitcount.itsvg.in)
+<img src="https://visitcount.itsvg.in/api?id=Arul6851&icon=5&color=6">
