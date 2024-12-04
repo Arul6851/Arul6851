@@ -9,5 +9,5 @@
 ⚒️ Trying to work more on my designing and frontend expertise.  
 </br>
 </br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arul6851&theme=tokyonight-duo)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arul6851&show_icons=true&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=Arul6851&theme=tokyonight-duo" alt="GitHub Streak" height=150 />
+<img src = "https://github-readme-stats.vercel.app/api?username=Arul6851&show_icons=true&theme=tokyonight" height=150>
