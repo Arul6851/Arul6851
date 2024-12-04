@@ -4,7 +4,7 @@
 📖 Currently studying Computer Science. Engineering at LICET, Chennai.  
 💻 I love working on Backend and DevOps.  
 📝 Tech Stack : SpringBoot, ExpressJS, FastAPI, Docker, HTML, CSS, JavaScript.  
-🏃🏼‍♂️ I play table tennis🏓 and chess♟️ at leisure and also a bit of football ⚽
+🏃🏼‍♂️ I play table tennis🏓 and chess♟️ at leisure and also a bit of football ⚽  
 🏍️ Love to go on long rides in my bike but hate the cost of fuel lmao.  
 ⚒️ Trying to work more on my designing and frontend expertise.  
 </br>
