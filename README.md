@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-📖 Currently studying Computer Science. Engineering at LICET, Chennai.<br>💻 I love working on Backend and DevOps.<br>📝 Tech Stack : SpringBoot, ExpressJS, FastAPI, Docker, HTML, CSS, JavaScript.<br>🏃🏼‍♂️ I play table tennis🏓 and chess♟️ at leisure and also a bit of football ⚽<br>🏍️ Love to go on long rides in my bike but hate the cost of fuel lmao.<br>⚒️ Trying to work more on my designing, frontend expertise and a bit of AI/ML.
+📖 Currently studying Computer Science. Engineering at LICET, Chennai.<br>💻 I love working on Backend and DevOps.<br>🏃🏼‍♂️ I play table tennis🏓 and chess♟️ at leisure and also a bit of football ⚽<br>🏍️ Love to go on long rides in my bike but hate the cost of fuel lmao.<br>⚒️ Trying to work more on my designing, frontend expertise and a bit of AI/ML.
 
 ## 🌐 Socials:
 
@@ -12,11 +12,12 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Arul6851&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arul6851&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arul6851&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Arul6851&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height=150>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arul6851&theme=tokyonight&hide_border=false" height=150></br>
 
-## 🏆 GitHub Trophies
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arul6851&layout=compact&theme=tokyonight&count_private=true"/>
+
+<!-- ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Arul6851&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
@@ -24,8 +25,8 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+--- -->
+</br>
+</br>
 
 [![](https://visitcount.itsvg.in/api?id=Arul6851&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
