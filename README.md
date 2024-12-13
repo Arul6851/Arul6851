@@ -18,7 +18,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Arul6851&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arul6851&theme=tokyonight&hide_border=false"></br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arul6851&layout=compact&theme=tokyonight&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arul6851&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-arul6851s-projects.vercel.app/api/top-langs/?username=Arul6851&layout=compact&theme=tokyonight"/>
 
 <!-- ## 🏆 GitHub Trophies
 
