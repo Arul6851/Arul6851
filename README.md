@@ -19,7 +19,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arul6851&theme=tokyonight&hide_border=false"></br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arul6851&layout=compact&theme=tokyonight"/>
-<img src="https://github-readme-stats-arul6851s-projects.vercel.app/api/top-langs/?username=Arul6851&layout=compact&theme=tokyonight"/>
 
 <!-- ## 🏆 GitHub Trophies
 
